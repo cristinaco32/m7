@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.geometry.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.shape.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane fx:id="background" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" stylesheets="@style.css"
+            xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.m7p1javafxcci.Controller">
+   <children>
+      <Group AnchorPane.bottomAnchor="71.0" AnchorPane.leftAnchor="379.0" AnchorPane.rightAnchor="57.0" AnchorPane.topAnchor="118.0">
+         <children>
+            <Label fx:id="textLabel" layoutX="403.0" layoutY="308.0" text="The Circle is blue ">
+               <font>
+                  <Font name="System Italic" size="15.0" />
+               </font>
+            </Label>
+            <Circle fx:id="geometricFigure" fill="DODGERBLUE" layoutX="461.0" layoutY="200.0" radius="82.0" stroke="WHITE" strokeType="INSIDE" strokeWidth="0.0" AnchorPane.bottomAnchor="118.0" AnchorPane.leftAnchor="379.0" AnchorPane.rightAnchor="57.0" AnchorPane.topAnchor="118.0" />
+         </children>
+      </Group>
+      <VBox alignment="CENTER" layoutX="61.0" layoutY="118.0" prefHeight="147.0" prefWidth="205.0" AnchorPane.bottomAnchor="82.0" AnchorPane.leftAnchor="61.0" AnchorPane.rightAnchor="358.0" AnchorPane.topAnchor="118.0">
+         <children>
+            <TextField fx:id="textField" alignment="BASELINE_LEFT" prefHeight="35.0" prefWidth="300.0" promptText="Introduce a color">
+               <font>
+                  <Font name="Arial" size="16.0" />
+               </font>
+               <VBox.margin>
+                  <Insets bottom="20.0" />
+               </VBox.margin>
+            </TextField>
+            <Button fx:id="paintButton" alignment="CENTER" mnemonicParsing="false" onAction="#onPaintButtonClick" prefHeight="35.0" prefWidth="125.0" text="Paint" textAlignment="CENTER" wrapText="true" VBox.vgrow="ALWAYS">
+               <font>
+                  <Font name="Arial" size="15.0" />
+               </font>
+            </Button>
+         </children>
+      </VBox>
+      <Label fx:id="titleLabel" layoutX="37.0" layoutY="76.0" text="Introduce a color to paint the circle!" AnchorPane.bottomAnchor="298.0" AnchorPane.leftAnchor="37.0" AnchorPane.rightAnchor="256.0" AnchorPane.topAnchor="76.0">
+         <font>
+            <Font name="Arial Narrow Bold Italic" size="22.0" />
+         </font></Label>
+      <ImageView fitHeight="41.0" fitWidth="34.0" layoutX="549.0" layoutY="353.0" pickOnBounds="true" preserveRatio="true" AnchorPane.bottomAnchor="13.0" AnchorPane.rightAnchor="17.0">
+         <image>
+            <Image url="@../../../icon.png" />
+         </image>
+      </ImageView>
+   </children>
+</AnchorPane>

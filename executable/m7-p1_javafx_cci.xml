@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\crist\OneDrive\Escriptori\DAM2\m7\m7-p1JavaFx-cci\out\artifacts\m7_p1JavaFx_cci_jar\m7-p1JavaFx-cci.jar</jar>
+  <outfile>C:\Users\crist\OneDrive\Escriptori\DAM2\m7\m7-uf2-executable.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl></downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>C:\Users\crist\OneDrive\Escriptori\DAM2\m7\RGB_Circle_1-80_icon-icons.com_57282.ico</icon>
+  <jre>
+    <path>%JAVA_HOME%;%PATH%</path>
+    <requiresJdk>true</requiresJdk>
+    <requires64Bit>false</requires64Bit>
+    <minVersion>17.0</minVersion>
+    <maxVersion></maxVersion>
+  </jre>
+</launch4jConfig>

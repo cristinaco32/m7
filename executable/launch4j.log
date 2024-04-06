@@ -1,0 +1,42 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\crist\OneDrive\Escriptori\DAM2\m7\m7-uf2-executable.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\crist\OneDrive\Escriptori\DAM2\m7\.
+Requires JDK:	Yes
+Requires 64-Bit: No
+Java min ver:	1.017.000
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Eclipse Adoptium\jdk-17.0.6.10-hotspot\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\PuTTY\;C:\Users\crist\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\Program Files\Git\cmd;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\Calibre2\;C:\Users\crist\.console-ninja\.bin;C:\Users\crist\AppData\Local\Microsoft\WindowsApps;C:\Users\crist\AppData\Roaming\npm;C:\Users\crist\AppData\Local\Programs\mongosh\;C:\Program Files\MongoDB\Server\6.0\bin\;C:\Users\crist\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\Users\crist\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Eclipse Adoptium\jdk-17.0.6.10-hotspot\bin
+JRE paths:	;C:\Program Files\Eclipse Adoptium\jdk-17.0.6.10-hotspot\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\PuTTY\;C:\Users\crist\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\Program Files\Git\cmd;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\Calibre2\;C:\Users\crist\.console-ninja\.bin;C:\Users\crist\AppData\Local\Microsoft\WindowsApps;C:\Users\crist\AppData\Roaming\npm;C:\Users\crist\AppData\Local\Programs\mongosh\;C:\Program Files\MongoDB\Server\6.0\bin\;C:\Users\crist\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\Users\crist\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Eclipse Adoptium\jdk-17.0.6.10-hotspot\bin
+Check launcher:	C:\Program Files\Eclipse Adoptium\jdk-17.0.6.10-hotspot\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Eclipse Adoptium\jdk-17.0.6.10-hotspot\bin\javac.exe (OK)
+Version string: 1.017.000_006 / 64-Bit (OK)
+Launcher:	C:\Program Files\Eclipse Adoptium\jdk-17.0.6.10-hotspot\bin\javaw.exe
+Launcher args:	-jar "C:\Users\crist\OneDrive\Escriptori\DAM2\m7\m7-uf2-executable.exe"
+Args length:	71/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\crist\OneDrive\Escriptori\DAM2\m7\m7-uf2-executable.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\crist\OneDrive\Escriptori\DAM2\m7\.
+Requires JDK:	Yes
+Requires 64-Bit: No
+Java min ver:	1.017.000
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Eclipse Adoptium\jdk-17.0.6.10-hotspot\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\PuTTY\;C:\Users\crist\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\Program Files\Git\cmd;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\Calibre2\;C:\Users\crist\.console-ninja\.bin;C:\Users\crist\AppData\Local\Microsoft\WindowsApps;C:\Users\crist\AppData\Roaming\npm;C:\Users\crist\AppData\Local\Programs\mongosh\;C:\Program Files\MongoDB\Server\6.0\bin\;C:\Users\crist\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\Users\crist\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Eclipse Adoptium\jdk-17.0.6.10-hotspot\bin
+JRE paths:	;C:\Program Files\Eclipse Adoptium\jdk-17.0.6.10-hotspot\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\PuTTY\;C:\Users\crist\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\Program Files\Git\cmd;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\Calibre2\;C:\Users\crist\.console-ninja\.bin;C:\Users\crist\AppData\Local\Microsoft\WindowsApps;C:\Users\crist\AppData\Roaming\npm;C:\Users\crist\AppData\Local\Programs\mongosh\;C:\Program Files\MongoDB\Server\6.0\bin\;C:\Users\crist\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\Users\crist\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Eclipse Adoptium\jdk-17.0.6.10-hotspot\bin
+Check launcher:	C:\Program Files\Eclipse Adoptium\jdk-17.0.6.10-hotspot\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Eclipse Adoptium\jdk-17.0.6.10-hotspot\bin\javac.exe (OK)
+Version string: 1.017.000_006 / 64-Bit (OK)
+Launcher:	C:\Program Files\Eclipse Adoptium\jdk-17.0.6.10-hotspot\bin\javaw.exe
+Launcher args:	-jar "C:\Users\crist\OneDrive\Escriptori\DAM2\m7\m7-uf2-executable.exe"
+Args length:	71/32768 chars
+Exit code:	0
